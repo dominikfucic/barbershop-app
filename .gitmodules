@@ -1,0 +1,6 @@
+[submodule "barbershop-backend"]
+	path = barbershop-backend
+	url = https://github.com/dominikfucic/barbershop-backend
+[submodule "barbershop-frontend"]
+	path = barbershop-frontend
+	url = https://github.com/dominikfucic/barbershop-frontend
